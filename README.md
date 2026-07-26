@@ -26,6 +26,10 @@ I also designed a 3D enclosure box for the project that would have 11 holes, 1 f
 | :---: | :---: |
 | ![schemetics](Images/Designing/Assembly%20V2.JPG) | ![Tracks](Images/Designing/Assembly%20V2%202.JPG) |
 
+## How to Assemble
+
+To Assemble the PCB, First get the PCB Fabricated and then Solder all the components into their dedicated places.
+
 ## BOM
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
